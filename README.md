@@ -28,4 +28,16 @@ PhoneDroid is an android app by which anyone can develop android app without any
     <img src="https://raw.githubusercontent.com/AsifNoman/PhoneDroid/master/www/img/Capture4.PNG" alt="phonedroid4" width="auto" height="250">
   </a>
   
+   <a target="_blank" href="https://raw.githubusercontent.com/AsifNoman/PhoneDroid/master/www/img/Capture5.PNG">
+    <img src="https://raw.githubusercontent.com/AsifNoman/PhoneDroid/master/www/img/Capture5.PNG" alt="phonedroid5" width="auto" height="250">
+  </a>
+  
+   <a target="_blank" href="https://raw.githubusercontent.com/AsifNoman/PhoneDroid/master/www/img/Capture6.PNG">
+    <img src="https://raw.githubusercontent.com/AsifNoman/PhoneDroid/master/www/img/Capture6.PNG" alt="phonedroid6" width="auto" height="250">
+  </a>
+  
+   <a target="_blank" href="https://raw.githubusercontent.com/AsifNoman/PhoneDroid/master/www/img/Capture7.PNG">
+    <img src="https://raw.githubusercontent.com/AsifNoman/PhoneDroid/master/www/img/Capture7.PNG" alt="phonedroid7" width="auto" height="250">
+  </a>
+  
 </div>
